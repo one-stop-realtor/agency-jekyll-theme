@@ -1,64 +1,64 @@
 url: https://y7kim.github.io
-baseurl: /agency-jekyll-theme/
+baseurl: /one-stop-realtor.github.io
 
 # Site settings
-title: Awesome Title
-email: your-email@domain.com
+title: One Stop Realtor
+email: onestoprealtor001@gmail.com
 description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
 
 
 # Team names, titles and social links
 people:
-- name: Kay Garland
-  pic: 1
-  position: Lead Designer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: stack-overflow
-      url: #
+# - name: Kay Garland
+#   pic: 1
+#   position: Lead Designer
+#   social:
+#     - title: twitter
+#       url: #
+#     - title: facebook
+#       url: #
+#     - title: stack-overflow
+#       url: #
 
-- name: Larry Parker
-  pic: 2
-  position: Lead Marketer
+- name: Varoon Ravi
+  pic: 4
+  position: Founder - Techie - Realtor
   social:
     - title: twitter
       url: #
     - title: facebook
-      url: #
+      url: https://www.facebook.com/VaroonRavi
     - title: linkedin
-      url: #
+      url: https://in.linkedin.com/in/varoon-ravi-7b3214112
 
-- name: Diana Petersen
-  pic: 3
-  position: Lead Developer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
+# - name: Diana Petersen
+#   pic: 3
+#   position: Lead Developer
+#   social:
+#     - title: twitter
+#       url: #
+#     - title: facebook
+#       url: #
+#     - title: google-plus
+#       url: #
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
-    url: http://twitter.com/jekyllrb
+    url: #
   - title: facebook
-    url:
+    url: https://www.facebook.com/VaroonRavi
   - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket 
-    url: http://bitbucket.org/jekyll
+    url: #
+  - title: bitbucket
+    url: #
   - title: github
-    url: http://github.com/jekyll
+    url: #
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: \#199, 6th Cross, 28th Main, Sector - 1
+  - line: H.S.R Layout, Bangalore 560102
 
 # Build settings
 markdown: kramdown

@@ -1,15 +1,15 @@
 ---
-title: Plots
-subtitle: HSR Layout
+title: Constructions
+subtitle: Coming Soon...
 layout: default
-modal-id: 1
-date: 2014-07-18
-<!-- img: dreams.png -->
-thumbnail: hsr_layout_thumbnail.png
-<!-- alt: HSR Layout -->
+modal-id: 5
+date: 2014-07-14
+<!-- img: startup-framework.png -->
+thumbnail: constructions_thumbnail.jpg
+<!-- alt: image-alt -->
 project-date: Commenced on January 1st 2019
 client: Genuine Buyers
-category: Plots
+category: Constructions
 description: <h3>HSR Layout</h3><br><p align="justify">Be it residential, commercial or joint development venture! This area has caught everybody's attention. Bangalore being known as the silicon city of India, HSR layout is in close proximity to almost all the IT hubs in bangalore. It not only has seen great commercial development, but also is seeing IT sector grow with the everyday growth of workspaces. If your looking to own property, invest for capital gain or thinking of a cash-flow alternative! This area would be your best bet!<br>Go ahead and send us your query and we will get back to you withing 24 hours.We here at one step realtor believe in a smooth end to end transaction and our realtor wish master will make sure of that!<br>We are very much motivated by our customer's satisfaction and we yearn to make it happen on our every deal!<br><h4>Can't wait for a call back? Call our realtor at +91 9742760957</h4></p>
 
 ---

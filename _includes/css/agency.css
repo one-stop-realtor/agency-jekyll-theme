@@ -635,6 +635,8 @@ section h3.section-subheading {
 .team-member {
     margin-bottom: 50px;
     text-align: center;
+    width: 1150px; /*I added this line */
+    margin: 0 auto;/* I added this line */
 }
 
 .team-member img {

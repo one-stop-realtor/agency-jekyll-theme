@@ -5,7 +5,7 @@ layout: default
 modal-id: 2
 date: 2014-07-17
 <!-- img: escape.png -->
-thumbnail: btm_layout_thumbnail.png
+thumbnail: btm_layout_thumbnail.jpg
 <!-- alt: image-alt -->
 project-date: Commenced on January 1st 2019
 client: Genuine Buyers

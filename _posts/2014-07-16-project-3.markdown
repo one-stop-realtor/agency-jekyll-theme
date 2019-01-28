@@ -25,7 +25,7 @@ description:
      B) 3 BHK - 1 House<br>
      C) 1 BHK - 1 House<br>
    Total Houses are 9 numbers!<br></pre>
-   6) Below Amenities is available<br>
+   6) Below Amenities are available<br>
    <pre align = "left">
    * Solar system available.<br>
    * Individual borewell is present, need not to worry about water problems.<br>

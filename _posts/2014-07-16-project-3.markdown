@@ -1,6 +1,6 @@
 ---
 title: Built Houses
-subtitle: Coming Soon...
+subtitle: Check us out!
 layout: default
 modal-id: 3
 date: 2014-07-16
@@ -10,6 +10,42 @@ thumbnail: house_thumbnail.jpg
 project-date: Commenced on January 1st 2019
 client: Genuine Buyers
 category: Housing
-description: <h3>Buy Houses</h3><br><p align="justify">We are yet to explore in this field... Stay tuned...<br>Go ahead and send us your query and we will get back to you withing 24 hours.We here at one step realtor believe in a smooth end to end transaction and our realtor wish master will make sure of that!<br>We are very much motivated by our customer's satisfaction and we yearn to make it happen on our every deal!<br><h4>Can't wait for a call back? Call our realtor at +91 9742760957</h4></p>
-
+description: 
+ - >
+   <h4>Property 1 Details</h4><br>
+   <p align="left">
+   <a href="https://bangalore.craigslist.org/reo/d/upside-potential-cash-flow-investment/6805641483.html">Check out property on craiglist.com</a><br>
+   1) Dimension-38\*44(sq. ft) = 1672(sq. ft)<br>
+   2) Facing-East facing<br>
+   3) Katha-11B<br>
+   4) Square meter (Chadar Adi) - 94<br>
+   5) Floor - G+5<br>
+     <pre align = "left">
+     A) 2 BHK - 7 Houses<br>
+     B) 3 BHK - 1 House<br>
+     C) 1 BHK - 1 House<br>
+   Total Houses are 9 numbers!<br></pre>
+   6) Below Amenities is available<br>
+   <pre align = "left">
+   * Solar system available.<br>
+   * Individual borewell is present, need not to worry about water problems.<br>
+   * Elevator planning is present, but not installed yet.<br>
+   * Passage fully covered with grill for safety.<br></pre>
+   7) Location  - BettaHalasur<br><pre align = "left">
+   * From NH(National Highway) - 2KM <br>
+   * Near VIT College and Sammy's Dream land, giving you a good opportunity to set up PG/Hostel services, this 
+   	 would help drive the cash-flow at even demanding rates!
+   * Rahul Dravid and Deepika Padukone sports club are in the vicinity of the house for weekend getaway and fun!<br>
+   * Stone hill high school is present in the vicinity, if your considering closer schools for your lads.<br>
+   * New villas are being built in the vicinity, showing signs of development.<br>
+   * Well developed residential environment, nearby hotels, grocery stores / super market, bus stops present.<br>
+   All above details are within a km.<br></pre>
+   Currently 3 of the following Houses have been rented<br>
+   One 3bhk houses.<br>
+   Two 2bhk houses.<br>
+   And current cashflow generated from these houses is 40k. With the conversion of remaining houses to PG/Hostel would drive an income to over 1Lakh.<br>
+   You could see over 0.5% of cash flow coming in every month on your investment!	
+   </p>
+   <hr>
+   <p align="justify">We are yet to explore in this field... Stay tuned...<br>Go ahead and send us your query and we will get back to you withing 24 hours.We here at one step realtor believe in a smooth end to end transaction and our realtor wish master will make sure of that!<br>We are very much motivated by our customer's satisfaction and we yearn to make it happen on our every deal!<br><h4>Can't wait for a call back? Call our realtor at +91 9742760957</h4></p>
 ---

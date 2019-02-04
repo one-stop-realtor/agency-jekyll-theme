@@ -4,7 +4,7 @@ baseurl: /one-stop-realtor.github.io
 # Site settings
 title: One Stop Realtor
 email: onestoprealtor001@gmail.com
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+description: "Hi there! We're now here in Bengaluru! Welcome to a One Stop Destination to any of your Realty needs. We here at One Stop Realtor do not give you loads and loads of agents to seek help from, we believe in giving you the best deals at best prices ensuring that you would have to deal with only us and we will take the rest from there! Welcome once again! Thank you for choosing us!"
 
 
 # Team names, titles and social links
@@ -63,3 +63,5 @@ address:
 # Build settings
 markdown: kramdown
 permalink: pretty
+plugins:
+  - jekyll-seo-tag
